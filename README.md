@@ -13,4 +13,10 @@ The first feature will be to:
 * save the tube station so that the user does not need to select again on next visit (but they can change it)
 * display the current information/status of the tube station (not display train times, yet!)
 
+Very simple flow to begin with:
+
+* user opens app / website (here after referred to as app)
+* app checks for saved choice
+* no choice, present welcome/selection screen
+* after choice / has choice, present home tube stop information screen
 
